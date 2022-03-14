@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/c"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    tools:context="com.example.android_week_042.ListView">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        android:text="@string/b_n_c_th_c_m_c_v_i_s_n_ph_m_v_a_xem_ng_ng_i_ch_t_v_i_shop"
+        android:textColor="#000000" />
+
+    <GridLayout
+        android:id="@+id/idListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="3"
+        android:orientation="horizontal"
+        android:rowCount="3" />
+</LinearLayout>

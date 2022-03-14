@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Android_Week_04.2</string>
+    <string name="app_name">Android_Week_04</string>
+    <string name="b_n_c_th_c_m_c_v_i_s_n_ph_m_v_a_xem_ng_ng_i_ch_t_v_i_shop">Bạn có thắc mắc với sản phẩm vừa xem đừng ngại chát với shop!</string>
+    <string name="chat">Chat</string>
 </resources>
